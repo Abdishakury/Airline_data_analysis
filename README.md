@@ -36,7 +36,9 @@ will increase.
 Here, 2nd Graph show that delay in arrival specially after 5 minutes may lead to dissatisfaction of the passengers. On the other hand there is not significant change in departure delay.
 
 <img width="627" height="430" alt="image" src="https://github.com/user-attachments/assets/a36074c7-7232-40b7-90a1-81201052e901" />
-As we can see in this graph around 90% of Personal travellers are dissatisfied and on the other side Business travellers ratio is around 50-50.  
+
+As we can see in this graph around 90% of Personal travellers are dissatisfied and on the other side Business travellers ratio is around 50-50. 
+
 <img width="703" height="426" alt="image" src="https://github.com/user-attachments/assets/bb47c173-a8ab-4f68-89cc-12c4e27cd22f" />
 Here, specially among the business travellers who are disloyal have high dissatisfaction compare to loyal customer.  
 
