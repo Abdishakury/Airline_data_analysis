@@ -40,6 +40,7 @@ Here, 2nd Graph show that delay in arrival specially after 5 minutes may lead to
 As we can see in this graph around 90% of Personal travellers are dissatisfied and on the other side Business travellers ratio is around 50-50. 
 
 <img width="703" height="426" alt="image" src="https://github.com/user-attachments/assets/bb47c173-a8ab-4f68-89cc-12c4e27cd22f" />
+
 Here, specially among the business travellers who are disloyal have high dissatisfaction compare to loyal customer.  
 
 **Finding:** By the above data analysis we find that, delay in departure have not much impact on satisfaction of the passengers, but passengers who face delay in arrival are mostly dissatisfied Specially after 5 minutes of delay. It look like delay in arrival definitely impact on the satisfaction of the travellers, rest other factor will be consider.  
