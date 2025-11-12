@@ -1,6 +1,6 @@
-# Revenue Performance Analysis
+# Arline Data Analysis
  - Portfolio [Link](https://github.com/Abdishakury/Portfolio)
- - [Jupyter Notebook](https://github.com/Abdishakury/Revenue_Performance_Analysis/blob/master/revenue-2007-performance-analysis.ipynb)
+ - [Jupyter Notebook](https://github.com/Abdishakury/Airline_data_analysis/blob/master/Arline_Data_Analysis.ipynb)
 
 
 ### 1. Introduction
