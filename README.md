@@ -1,4 +1,4 @@
-# Arline Data Analysis
+# Airline Data Analysis
  - Portfolio [Link](https://github.com/Abdishakury/Portfolio)
  - [Jupyter Notebook](https://github.com/Abdishakury/Airline_data_analysis/blob/master/Arline_Data_Analysis.ipynb)
 
@@ -40,15 +40,15 @@ As we can see in this graph around 90% of Personal travellers are dissatisfied a
 <img width="703" height="426" alt="image" src="https://github.com/user-attachments/assets/bb47c173-a8ab-4f68-89cc-12c4e27cd22f" />
 Here, specially among the business travellers who are disloyal have high dissatisfaction compare to loyal customer.  
 
-**Finding:** By the above data analysis we find that, delay in departure have not much impact on satisfaction of the passengers, but passengers who face delay in arrival are mostly dissatisfied Specially after 5 minutes of delay. It look like delay in arrival 
-definitely impact on the satisfaction of the travellers, rest other factor will be consider.  
+**Finding:** By the above data analysis we find that, delay in departure have not much impact on satisfaction of the passengers, but passengers who face delay in arrival are mostly dissatisfied Specially after 5 minutes of delay. It look like delay in arrival definitely impact on the satisfaction of the travellers, rest other factor will be consider.  
 
-### Amenities with 0 rating ( service may not available or not provided )
+### Amenities with 0 rating (service may not available or not provided)
 <img width="1066" height="578" alt="image" src="https://github.com/user-attachments/assets/cbb91bc4-184c-4b6f-b74b-d3e4aafe9dd1" />
 <img width="1010" height="467" alt="image" src="https://github.com/user-attachments/assets/786676d8-a49e-469a-9716-2a0755904c53" />
 In case of Business travellers most of them are look satisfied, it may because business travellers booked their tickets by the contact of agents, hence they do not face any difficulty whether Online booking service is available or not. But In case of Personal travellers scenario is different, here most of them report dissatisfaction, It may have a chance that no online booking service impact on there satisfaction rating.
 
 <img width="1017" height="528" alt="image" src="https://github.com/user-attachments/assets/efcf41c7-a966-476e-94ff-bd68e537bd1b" />
+
 **Findings:** By the above analysis, Mostly Business class passengers reported no Inflight wifi service, but it may not impact on their satisfaction decision, similar case in other preferred classes.¶ In other unavailable services like online booking and online boarding, it look like Personal travellers hold the high chance to get dissatisfied but unavailability of these services. 
 
 ### Airline Amenities with frequent rating equal to 3 or less than 3. 
